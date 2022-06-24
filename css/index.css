@@ -61,8 +61,8 @@
 }
 
 .btn:hover {
-    background-color: var(--dark-color);
-    color:var(--white);
+   background-color: var(--dark-color);
+    color: var(--white);
 }
 
 .deal {
