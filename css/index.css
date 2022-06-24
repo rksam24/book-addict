@@ -234,6 +234,7 @@
 
 .footer .share a:hover {
     background: var(--black);
+    color: var(--white);
 }
 
 .heading {
